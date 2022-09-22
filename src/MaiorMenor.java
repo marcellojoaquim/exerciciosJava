@@ -14,7 +14,7 @@ public class MaiorMenor {
         num3 = sc.nextInt();
         menor = num1;
       
-
+       
         if((num1 > num2)&&(num1>num3)){
             maior = num1;
         }
