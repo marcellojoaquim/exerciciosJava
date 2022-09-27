@@ -1,6 +1,6 @@
-import java.util.Scanner;
-
 // EXERCICIO 21
+
+import java.util.Scanner;
 
 public class VelocidadeAno {
 
