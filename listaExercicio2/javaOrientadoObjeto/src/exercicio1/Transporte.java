@@ -74,7 +74,5 @@ public class Transporte {
     public void gravaModelo(String modelo){
         this.modelo = modelo;
     }
-
-
     
 }
