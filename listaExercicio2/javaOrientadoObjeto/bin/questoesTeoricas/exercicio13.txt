@@ -1,0 +1,15 @@
+O que compõe a assinatura de um método? Exemplifique.
+
+Um método define o comportamento ou maneira de fazer algo de uma determinada entidade/Objeto.
+É possível que um método não tenha nenhum parâmetro, por convenção o nome do método no java deve iniciar com letra
+minúscula.
+
+sintax:
+
+public void identificador(valor){
+    implementação...
+}
+Modificador de acesso:  public
+tipo de retorno: void
+nome do método: identificador
+parâmetro de entrada: valor 

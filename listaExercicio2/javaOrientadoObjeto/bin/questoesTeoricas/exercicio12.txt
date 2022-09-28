@@ -1,0 +1,6 @@
+Define com suas palavras o que se pede:
+(A) Classe
+    É a descriminação de um tipo onde será definido atributos e métodos.
+(B) Objeto
+    É a instância da classe, ou seja, serão atribuidos valores aos atributos da classe que está sendo instanciada.
+    Surge uma entidade. 
