@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Porcentagem {
+public class AumentoPorcentagem {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         double precoAntigo, precoNovo, aux, aumento;

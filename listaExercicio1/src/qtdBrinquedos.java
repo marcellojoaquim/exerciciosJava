@@ -1,7 +1,7 @@
 // EXERCICIO 26
 import java.util.Scanner;
 
-public class qtdBrinquedos {
+public class QtdBrinquedos {
     
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

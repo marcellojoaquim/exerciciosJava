@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
-        "src"
+        "src",
+        "listaExercicio2/javaOrientadoObjeto/src"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [

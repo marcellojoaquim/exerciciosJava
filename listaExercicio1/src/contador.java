@@ -1,5 +1,5 @@
 //EXERCICIO 28
-public class contador {
+public class Contador {
     
     public static void main(String[] args) {
         int j = 60, i=1;

@@ -1,7 +1,7 @@
 //EXERCICIO 31
 import java.util.Scanner;
 
-public class notaValida {
+public class NotaValida {
     
     public static void main(String[] args) {
        Scanner input = new Scanner(System.in); 

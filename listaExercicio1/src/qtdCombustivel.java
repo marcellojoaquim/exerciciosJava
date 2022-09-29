@@ -1,7 +1,7 @@
 //EXERCICIO 32
 import java.util.Scanner;
 
-public class qtdCombustivel {
+public class QtdCombustivel {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int qtdAlcool=0, qtdGasolina=0, qtdDiesel=0, opcao=0;

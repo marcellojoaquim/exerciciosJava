@@ -1,5 +1,7 @@
 package exercicio14;
 
+import java.util.ArrayList;
+
 public class DadosImpl implements Dados {
     
     private ArrayList<Transporte> lista = new ArrayList<>();
