@@ -1,3 +1,4 @@
+package exercicio37;
 import java.util.Scanner;
 
 //EXERCICIO 37
